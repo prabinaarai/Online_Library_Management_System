@@ -1,0 +1,89 @@
+
+.innerright,label {
+    color: rgb(0, 0, 0);
+    font-weight:bold;
+    
+    }
+    .container,
+    .row,
+    .imglogo {
+    margin:auto;
+    }
+    
+    .innerdiv {
+    /* text-align: center; */
+    letter-spacing: 2px;
+    /* padding-left:10px ; */
+    /* width: 500px; */
+    margin: 30px;
+    }
+    input{
+    margin-left:50px;
+    }
+    .leftinnerdiv {
+    float: left;
+    width: 25%;
+    }
+    
+    .rightinnerdiv {
+    float: right;
+    width: 75%;
+    text-align: center;
+    }
+    
+    .innerright {
+    padding-left: 10px;
+    padding-top: 10px;
+    background-color: rgb(209, 139, 139);
+    }
+    
+    .greenbtn {
+    background-color: purple;
+    color: white;
+    width: 95%;
+    height: 40px;
+    margin-top: 8px;
+    }
+    .greenbtn:hover{
+        border-radius: 10px;
+        background-color: aqua;
+        color: white;
+        transition: 0.3s;
+    }
+    
+    .greenbtn,
+    a {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    }
+    
+    th{
+    background-color: orange;
+    color: black;
+    }
+    td{
+    background-color: #127768;
+    color: black;
+    }
+    td, a{
+    color:black;
+    }
+    #move{
+       text-align: center; 
+    }
+    label{
+        width:200px;
+        display: inline-block;
+    }
+    /* .branch{
+        width:200px;
+
+    } */
+    .branch{
+        /* display: inline-block; */
+    }
+    .issue{                                                                                                                                         
+        width: 90px;
+    }
+    
